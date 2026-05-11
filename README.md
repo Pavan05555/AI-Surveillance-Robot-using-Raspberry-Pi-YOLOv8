@@ -203,5 +203,3 @@ http://192.168.1.5:5000
 - Advanced YOLO Models (YOLOv9 / YOLOv10)
 
 ---
-
-# ⭐ If you like this project, give it a star on GitHub!
